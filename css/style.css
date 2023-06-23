@@ -105,6 +105,9 @@ p {
 	color: var(--drak-grey-color);
 }
 
+.no-margin-top {
+	margin-top: 0;
+  }
 
 /***************/
 .directionRow {
